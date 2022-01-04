@@ -92,6 +92,7 @@ ul li a:hover{
     font-size: 15px;
     border-bottom-left-radius: 5px;
     border-bottom-left-radius: 5px;
+	cursor:pointer;
 }
 
 .btn:focus{
