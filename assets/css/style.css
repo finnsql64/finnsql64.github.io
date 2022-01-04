@@ -55,6 +55,7 @@ ul li a{
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
+	color: #551A8B;
 }
 
 ul li a:hover{
